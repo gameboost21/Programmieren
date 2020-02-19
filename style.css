@@ -1,0 +1,38 @@
+.welcome {
+  position: relative;
+  font-family: cursive;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.about_intro {
+  position: relative;
+  font-family: cursive;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.bild2 {
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  top: 0px;
+  right: 0px
+}
+
+.uhr {
+  border: solid white;
+}
+
+.calendar {
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.px_logo {
+  height: 80px;
+  width: 80px;
+  border: dotted;
+  border-radius: 10px;
+  margin-left: 1300px;
+}
